@@ -1,3 +1,9 @@
+#
+# Solving OpenAI Gym CartPole game with Tensorflow
+# Author Ilhwan Hwang (https://github.com/IlhwanHwang)
+# Date 17.08.19
+#
+
 import gym
 import tensorflow as tf
 import numpy as np
